@@ -1,6 +1,6 @@
 {
   "name" : "egfl/securetrading-log",
-  "version" : "3.0.1",
+  "version" : "3.0.2",
   "description" : "Secure Trading's Log package.",
   "license" : "MIT",
   "require" : {
